@@ -1,0 +1,14 @@
+To run this program-
+
+1. Download and install NetBeans
+2. Start NetBeans, select File > Open project (a file browser will open)
+3. Select the iRRT folder
+4. Click Run Project
+
+About the code:
+
+There are absolutely no comments in the code. If you planning on understanding or modifying the code you are out of luck. I am sorry.
+
+About bugs and glitches:
+
+There are some minor bugs but they are nothing to be worried about.
